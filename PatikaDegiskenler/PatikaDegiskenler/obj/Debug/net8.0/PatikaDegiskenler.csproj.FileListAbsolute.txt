@@ -1,0 +1,14 @@
+C:\Users\EZGİ\Source\Repos\PatikaDegiskenler\PatikaDegiskenler\obj\Debug\net8.0\PatikaDegiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EZGİ\Source\Repos\PatikaDegiskenler\PatikaDegiskenler\obj\Debug\net8.0\PatikaDegiskenler.AssemblyInfoInputs.cache
+C:\Users\EZGİ\Source\Repos\PatikaDegiskenler\PatikaDegiskenler\obj\Debug\net8.0\PatikaDegiskenler.AssemblyInfo.cs
+C:\Users\EZGİ\Source\Repos\PatikaDegiskenler\PatikaDegiskenler\obj\Debug\net8.0\PatikaDegiskenler.csproj.CoreCompileInputs.cache
+C:\Users\EZGİ\Source\Repos\PatikaDegiskenler\PatikaDegiskenler\bin\Debug\net8.0\PatikaDegiskenler.exe
+C:\Users\EZGİ\Source\Repos\PatikaDegiskenler\PatikaDegiskenler\bin\Debug\net8.0\PatikaDegiskenler.deps.json
+C:\Users\EZGİ\Source\Repos\PatikaDegiskenler\PatikaDegiskenler\bin\Debug\net8.0\PatikaDegiskenler.runtimeconfig.json
+C:\Users\EZGİ\Source\Repos\PatikaDegiskenler\PatikaDegiskenler\bin\Debug\net8.0\PatikaDegiskenler.dll
+C:\Users\EZGİ\Source\Repos\PatikaDegiskenler\PatikaDegiskenler\bin\Debug\net8.0\PatikaDegiskenler.pdb
+C:\Users\EZGİ\Source\Repos\PatikaDegiskenler\PatikaDegiskenler\obj\Debug\net8.0\PatikaDegiskenler.dll
+C:\Users\EZGİ\Source\Repos\PatikaDegiskenler\PatikaDegiskenler\obj\Debug\net8.0\refint\PatikaDegiskenler.dll
+C:\Users\EZGİ\Source\Repos\PatikaDegiskenler\PatikaDegiskenler\obj\Debug\net8.0\PatikaDegiskenler.pdb
+C:\Users\EZGİ\Source\Repos\PatikaDegiskenler\PatikaDegiskenler\obj\Debug\net8.0\PatikaDegiskenler.genruntimeconfig.cache
+C:\Users\EZGİ\Source\Repos\PatikaDegiskenler\PatikaDegiskenler\obj\Debug\net8.0\ref\PatikaDegiskenler.dll
